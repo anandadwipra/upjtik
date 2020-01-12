@@ -4,16 +4,16 @@
 
 ### Nalika
 Dashboard template Nalika :
-#### 1. [versi 1](bapelindo.github.io/upjtik/nalika/index.html)
+#### 1. [versi 1](/nalika/index.html)
 bapelindo.github.io/upjtik/nalika/index.html
-#### 2. [versi 2](bapelindo.github.io/upjtik/nalika/index-1.html)
+#### 2. [versi 2](/nalika/index-1.html)
 bapelindo.github.io/upjtik/nalika/index-1.html
-#### 3. [versi 3](bapelindo.github.io/upjtik/nalika/index-2.html)
+#### 3. [versi 3](/nalika/index-2.html)
 bapelindo.github.io/upjtik/nalika/index-3.html
 
 ### Upjtik
 Website Upjtik :
-#### [Pengerjaan](bapelindo.github.io/upjtik/upjtik/index.php)
+#### [Pengerjaan](/upjtik/index.php)
 bapelindo.github.io/upjtik/upjtik/index.php
 
 
