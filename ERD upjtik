@@ -1,0 +1,29 @@
+^Pelanggan  -   Info Pelanggan
+
+id pelanggan        (id)    PK
+nama pelanggan      (p_name)
+tanggal pemasangan  (p_tgl)
+total pemasangan    (p_total)
+jarak lokasi        (p_jarak)
+pelanggan comment   (p_comment)
+tanggal comment     (tgl_comment)
+nomor hp pelanggan  (p_no)
+sewa                (sewa)
+
+
+^Maintenance  -  Info Maintenance
+
+id maintenance      (id)    PK
+identity            (identity)
+SSID                (ssid)
+ip client           (ip)
+Signal tx           (stx)
+Signal rx           (srx)
+CCQ                 (ccq)
+frequency           (frequency)
+band                (band)
+wireless protocol   (protocol)
+nama AP             (mt_name)
+nama Petugas        (mt_petugas)
+tanggal maintenance (mt_tgl)
+comment maintenance (mt_comment)
