@@ -1,9 +1,8 @@
 ## Github untuk pengerjaan website UPJTIK
 
-## Markdown
 
-### Nalika
-Dashboard template Nalika :
+## Nalika
+### Dashboard template Nalika :
 #### 1. [versi 1](/nalika/index.html)
 bapelindo.github.io/upjtik/nalika/index.html
 #### 2. [versi 2](/nalika/index-1.html)
@@ -11,8 +10,8 @@ bapelindo.github.io/upjtik/nalika/index-1.html
 #### 3. [versi 3](/nalika/index-2.html)
 bapelindo.github.io/upjtik/nalika/index-3.html
 
-### Upjtik
-Website Upjtik :
+## Upjtik
+### Website Upjtik :
 #### [Pengerjaan](/upjtik/index.php)
 bapelindo.github.io/upjtik/upjtik/index.php
 
