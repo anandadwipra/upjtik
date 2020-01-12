@@ -1,30 +1,21 @@
-## Welcome to GitHub Pages
+## Github untuk pengerjaan website UPJTIK
 
-You can use the [editor on GitHub](https://github.com/bapelindo/upjtik/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Markdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nalika
+Dashboard template Nalika :
+#### 1. [versi 1](bapelindo.github.io/upjtik/nalika/index.html)
+bapelindo.github.io/upjtik/nalika/index.html
+#### 2. [versi 2](bapelindo.github.io/upjtik/nalika/index-1.html)
+bapelindo.github.io/upjtik/nalika/index-1.html
+#### 3. [versi 3](bapelindo.github.io/upjtik/nalika/index-2.html)
+bapelindo.github.io/upjtik/nalika/index-3.html
 
-### Markdown
+### Upjtik
+Website Upjtik :
+#### [Pengerjaan](bapelindo.github.io/upjtik/upjtik/index.php)
+bapelindo.github.io/upjtik/upjtik/index.php
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
