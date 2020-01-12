@@ -12,8 +12,8 @@ bapelindo.github.io/upjtik/nalika/index-3.html
 
 ## Upjtik
 ### Website Upjtik :
-#### [Pengerjaan](/upjtik/index.php)
-bapelindo.github.io/upjtik/upjtik/index.php
+#### [Pengerjaan](http://upjtik.herokuapp.com/upjtik/)
+http://upjtik.herokuapp.com/upjtik/
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
